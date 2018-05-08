@@ -12,6 +12,11 @@ int main() {
 			std::cout << "\n U GO JAIL NOW\n";
 		}
 	}
+<<<<<<< HEAD
 
+=======
+	std::cout << "hi hi hi";
+	std::cout << "This dont work";
+>>>>>>> feature/dice
 	getchar();
 }
